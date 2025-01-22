@@ -1,1 +1,1 @@
-# Python_project
+# Gym app
